@@ -1,3 +1,4 @@
 ﻿  Source.cpp
 C:\Users\Користувач\source\repos\Lab 02\PR2\Source.cpp(13,9): warning C4101: 'z2': unreferenced local variable
+  LINK : C:\Users\Користувач\source\repos\Lab 02\x64\Debug\PR2.exe not found or not built by the last incremental link; performing full link
   PR2.vcxproj -> C:\Users\Користувач\source\repos\Lab 02\x64\Debug\PR2.exe
